@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.exe
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.deps.json
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.dll
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.pdb
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.dll
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\refint\ExSwitchCase.dll
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.pdb
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ExSwitchCase\ExSwitchCase\obj\Debug\net6.0\ref\ExSwitchCase.dll

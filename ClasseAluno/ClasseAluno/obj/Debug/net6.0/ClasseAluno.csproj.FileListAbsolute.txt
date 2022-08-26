@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\bin\Debug\net6.0\ClasseAluno.exe
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\bin\Debug\net6.0\ClasseAluno.deps.json
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\bin\Debug\net6.0\ClasseAluno.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\bin\Debug\net6.0\ClasseAluno.dll
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\bin\Debug\net6.0\ClasseAluno.pdb
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\ClasseAluno.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\ClasseAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\ClasseAluno.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\ClasseAluno.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\ClasseAluno.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\ClasseAluno.dll
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\refint\ClasseAluno.dll
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\ClasseAluno.pdb
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\ClasseAluno.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ClasseAluno\ClasseAluno\obj\Debug\net6.0\ref\ClasseAluno.dll

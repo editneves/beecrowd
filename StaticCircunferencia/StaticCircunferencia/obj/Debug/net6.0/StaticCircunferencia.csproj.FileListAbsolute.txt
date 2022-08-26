@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\bin\Debug\net6.0\StaticCircunferencia.exe
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\bin\Debug\net6.0\StaticCircunferencia.deps.json
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\bin\Debug\net6.0\StaticCircunferencia.runtimeconfig.json
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\bin\Debug\net6.0\StaticCircunferencia.dll
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\bin\Debug\net6.0\StaticCircunferencia.pdb
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\StaticCircunferencia.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\StaticCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\StaticCircunferencia.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\StaticCircunferencia.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\StaticCircunferencia.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\StaticCircunferencia.dll
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\refint\StaticCircunferencia.dll
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\StaticCircunferencia.pdb
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\StaticCircunferencia.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\StaticCircunferencia\StaticCircunferencia\obj\Debug\net6.0\ref\StaticCircunferencia.dll

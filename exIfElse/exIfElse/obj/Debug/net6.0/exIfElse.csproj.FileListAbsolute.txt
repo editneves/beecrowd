@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\exIfElse.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\exIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\exIfElse.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\exIfElse.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\exIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\bin\Debug\net6.0\exIfElse.exe
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\bin\Debug\net6.0\exIfElse.deps.json
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\bin\Debug\net6.0\exIfElse.runtimeconfig.json
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\bin\Debug\net6.0\exIfElse.dll
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\bin\Debug\net6.0\exIfElse.pdb
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\exIfElse.dll
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\refint\exIfElse.dll
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\exIfElse.pdb
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\exIfElse.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\exIfElse\exIfElse\obj\Debug\net6.0\ref\exIfElse.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\ExWhile.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\ExWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\ExWhile.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\ExWhile.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\ExWhile.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\bin\Debug\net6.0\ExWhile.exe
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\bin\Debug\net6.0\ExWhile.deps.json
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\bin\Debug\net6.0\ExWhile.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\bin\Debug\net6.0\ExWhile.dll
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\bin\Debug\net6.0\ExWhile.pdb
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\ExWhile.dll
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\refint\ExWhile.dll
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\ExWhile.pdb
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\ExWhile.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ExWhile\ExWhile\obj\Debug\net6.0\ref\ExWhile.dll

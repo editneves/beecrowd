@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.dll
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.dll
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\refint\Primeiro.dll
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll

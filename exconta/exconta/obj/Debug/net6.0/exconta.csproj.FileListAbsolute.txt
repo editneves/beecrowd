@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\exconta\exconta\bin\Debug\net6.0\exconta.exe
+C:\Users\Lenovo\source\repos\exconta\exconta\bin\Debug\net6.0\exconta.deps.json
+C:\Users\Lenovo\source\repos\exconta\exconta\bin\Debug\net6.0\exconta.runtimeconfig.json
+C:\Users\Lenovo\source\repos\exconta\exconta\bin\Debug\net6.0\exconta.dll
+C:\Users\Lenovo\source\repos\exconta\exconta\bin\Debug\net6.0\exconta.pdb
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\exconta.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\exconta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\exconta.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\exconta.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\exconta.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\exconta.dll
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\refint\exconta.dll
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\exconta.pdb
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\exconta.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\exconta\exconta\obj\Debug\net6.0\ref\exconta.dll

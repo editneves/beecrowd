@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\URI1020\URI1020\bin\Debug\net6.0\URI1020.exe
+C:\Users\Lenovo\source\repos\URI1020\URI1020\bin\Debug\net6.0\URI1020.deps.json
+C:\Users\Lenovo\source\repos\URI1020\URI1020\bin\Debug\net6.0\URI1020.runtimeconfig.json
+C:\Users\Lenovo\source\repos\URI1020\URI1020\bin\Debug\net6.0\URI1020.dll
+C:\Users\Lenovo\source\repos\URI1020\URI1020\bin\Debug\net6.0\URI1020.pdb
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\URI1020.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\URI1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\URI1020.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\URI1020.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\URI1020.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\URI1020.dll
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\refint\URI1020.dll
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\URI1020.pdb
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\URI1020.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\URI1020\URI1020\obj\Debug\net6.0\ref\URI1020.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.exe
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.deps.json
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.dll
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.pdb
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.dll
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\refint\ClasseFuncionario.dll
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.pdb
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net6.0\ref\ClasseFuncionario.dll

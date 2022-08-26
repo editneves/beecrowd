@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\bin\Debug\net6.0\StaticCircunferenciaCalculadora.exe
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\bin\Debug\net6.0\StaticCircunferenciaCalculadora.deps.json
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\bin\Debug\net6.0\StaticCircunferenciaCalculadora.runtimeconfig.json
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\bin\Debug\net6.0\StaticCircunferenciaCalculadora.dll
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\bin\Debug\net6.0\StaticCircunferenciaCalculadora.pdb
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\StaticCircunferenciaCalculadora.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\StaticCircunferenciaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\StaticCircunferenciaCalculadora.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\StaticCircunferenciaCalculadora.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\StaticCircunferenciaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\StaticCircunferenciaCalculadora.dll
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\refint\StaticCircunferenciaCalculadora.dll
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\StaticCircunferenciaCalculadora.pdb
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\StaticCircunferenciaCalculadora.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\StaticCircunferenciaCalculadora\StaticCircunferenciaCalculadora\obj\Debug\net6.0\ref\StaticCircunferenciaCalculadora.dll

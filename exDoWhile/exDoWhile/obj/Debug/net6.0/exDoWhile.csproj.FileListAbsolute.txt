@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\exDoWhile.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\exDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\exDoWhile.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\exDoWhile.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\exDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\bin\Debug\net6.0\exDoWhile.exe
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\bin\Debug\net6.0\exDoWhile.deps.json
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\bin\Debug\net6.0\exDoWhile.runtimeconfig.json
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\bin\Debug\net6.0\exDoWhile.dll
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\bin\Debug\net6.0\exDoWhile.pdb
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\exDoWhile.dll
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\refint\exDoWhile.dll
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\exDoWhile.pdb
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\exDoWhile.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\exDoWhile\exDoWhile\obj\Debug\net6.0\ref\exDoWhile.dll
